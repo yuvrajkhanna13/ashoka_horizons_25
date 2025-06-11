@@ -1,0 +1,38 @@
+1(a) Clarity, Precision, Efficiency
+Clarity means easy to understand. Precision means exact data representation. Efficiency means communicating maximum info with minimal effort.
+1(b) Example
+A rainbow pie chart with 10 segments lacks clarity. A horizontal bar chart would be clearer.
+2(a) Why Visualization is Important
+Data is everywhere. Visualization turns massive, raw data into insights quickly.
+2(b) Extracting Value
+Visualization helps detect patterns, like seasonal trends in sales, which raw tables may hide.
+3(a) Exploratory Scenario
+Exploring correlations between air pollution and asthma across cities. Goal: discovery.
+3(b) Explanatory Scenario
+Presenting findings of pollution-asthma link to city council. Goal: persuasion and clarity.
+4(a) Most Effective Channels
+Position and length are best for quantitative data. They're perceptually accurate and easy to compare.
+4(b) Identity Channels
+Used to distinguish categories. Example: colors representing different car brands in a plot.
+5. Expressiveness & Effectiveness
+Expressiveness = all needed info shown. Effectiveness = data shown in most perceptible way. Both ensure clarity and accuracy.
+6(a) Nightingale Chart
+A polar area chart showing causes of soldier deaths in Crimean War.
+6(b) Primary Message
+Most deaths were preventable diseases, not battle injuries.
+6(c) Visual Design Impact
+Large colored wedges made death causes visually striking, easy to compare.
+7(a) Color Palettes
+Qualitative: categories (e.g., countries). Sequential: numeric scale (e.g., temperature). Diverging: deviations (e.g., profit/loss).
+7(b) Colorblindness & Accessibility
+Colorblind users may confuse red/green. Use colorblind-friendly palettes and add texture/labels.
+8. Planning Questions
+1. What’s the question? 2. Who’s the audience? 3. What data is needed? These guide effective design.
+9(a) Dynamic Viz Advantages
+Interactive visualizations offer user control, layering of detail, and better engagement.
+9(b) Example of Interactivity
+Tooltips show exact values on hover, keeping chart clean but info-rich.
+10(a) Creative Coding Meaning
+Coding with aesthetics in mind, blending data, design, and interaction.
+10(b) Example
+Wind Map (hint.fm/wind) shows wind flow patterns across the US. Visually engaging and informative.
